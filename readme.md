@@ -1,4 +1,4 @@
-# Projeto Kafka Producer
+# Projeto Kafka Consumer
 -- Projeto criado seguindo tutorial do site Kafka confluent.
 https://kafka-tutorials.confluent.io/creating-first-apache-kafka-consumer-application/kafka.html
 
